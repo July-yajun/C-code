@@ -1,0 +1,3 @@
+﻿  test.c
+E:\C语言\test\test-3-10\test-3-10\test.c(266,1): warning C4716: “Add”: 必须返回一个值
+  test-3-10.vcxproj -> E:\C语言\test\test-3-10\x64\Debug\test-3-10.exe
